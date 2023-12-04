@@ -1,0 +1,9 @@
+body {
+  background-color: red;
+}
+body header {
+  background-color: yellow;
+}
+body header p {
+  color: green;
+}
